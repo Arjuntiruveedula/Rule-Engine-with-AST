@@ -57,9 +57,11 @@ Use Cases:
    
     https://github.com/Arjuntiruveedula/Rule-Engine-with-AST.git
 
-2. **You can add your own Mongo Database**
+2. **You have to add your own Mongo Database**
    Add .env file and add mongoUrl as
+   ```bash
    MONGO_URL=yourDbUrl
+   ```
 4. **Install Backend Dependencies**
 
    
