@@ -54,8 +54,10 @@ Use Cases:
 ### Installation
 
 1. **Clone the Repository**
-   
+   ```bash
     git clone https://github.com/Arjuntiruveedula/Rule-Engine-with-AST.git
+   ```
+
    ```bash
    cd Rule-Engine-with-AST
    ```
