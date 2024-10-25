@@ -55,10 +55,13 @@ Use Cases:
 
 1. **Clone the Repository**
    
-    https://github.com/Arjuntiruveedula/Rule-Engine-with-AST.git
+    git clone https://github.com/Arjuntiruveedula/Rule-Engine-with-AST.git
+   ```bash
+   cd Rule-Engine-with-AST
+   ```
 
-2. **You have to add your own Mongo Database**
-   Add .env file and add mongoUrl as
+3. **You have to add your own Mongo Database**
+   -Add .env file and add mongoUrl in .env file as
    ```bash
    MONGO_URL=yourDbUrl
    ```
