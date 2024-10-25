@@ -84,6 +84,10 @@ Use Cases:
    npm start
    ```
 
+
+
+    -And Application will be running at http://localhost:3000/
+
 ## API Endpoints
 
 1. **Create a Rule**
