@@ -57,17 +57,24 @@ Use Cases:
    
     https://github.com/Arjuntiruveedula/Rule-Engine-with-AST.git
 
-2. **Install Backend Dependencies**
+2. **You can add your own Mongo Database**
+   Add .env file and add mongoUrl as
+   MONGO_URL=yourDbUrl
+4. **Install Backend Dependencies**
 
    
    ```bash
    npm install
    ```
 
-3. **Start the Backend Server**
+5. **Start the Backend Server**
 
    ```bash
    nodemon server.js
+   ```
+   or
+    ```bash
+   npm start
    ```
 
 ## API Endpoints
